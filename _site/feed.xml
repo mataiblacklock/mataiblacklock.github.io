@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Christopher Iliffe Sprague</title>
-    <description>Astrodynamicist | Developer | Aspiring Astronaut</description>
+    <title>Matai Blacklock</title>
+    <description>Industrial Engineer | Sustainability Advocates | Aspiring Consultant</description>
     <link>localhost:4000//</link>
     <atom:link href="localhost:4000//feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Thu, 28 Jul 2016 01:34:52 -0400</pubDate>
-    <lastBuildDate>Thu, 28 Jul 2016 01:34:52 -0400</lastBuildDate>
+    <pubDate>Tue, 23 Aug 2016 18:26:39 -0400</pubDate>
+    <lastBuildDate>Tue, 23 Aug 2016 18:26:39 -0400</lastBuildDate>
     <generator>Jekyll v3.0.2</generator>
     
       <item>
@@ -212,6 +212,30 @@
         <category>Planets</category>
         
         <category>Physics</category>
+        
+        
+        <category>Tutorial</category>
+        
+      </item>
+    
+      <item>
+        <title>Statistical Analysis Tools in R</title>
+        <description>Basic Intro
+
+## Title
+
+```R
+x = 1
+```</description>
+        <pubDate>Mon, 25 Jul 2016 05:00:00 -0400</pubDate>
+        <link>localhost:4000//2016/statistical-analysis-in-R/</link>
+        <guid isPermaLink="true">localhost:4000//2016/statistical-analysis-in-R/</guid>
+        
+        <category>Statistics</category>
+        
+        <category>R</category>
+        
+        <category>Statistical Analysis</category>
         
         
         <category>Tutorial</category>
