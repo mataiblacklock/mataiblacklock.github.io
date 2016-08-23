@@ -1,6 +1,6 @@
 # Site settings
 title: 'Matai Blacklock'
-description: 'Industrial Engineer | Sustainability Advocates | Aspiring Consultant'
+description: 'Industrial Engineer | Sustainability Advocate | Aspiring Consultant'
 url: 'localhost:4000'
 baseurl: '/'
 google_analytics: 'UA-83003527-1'

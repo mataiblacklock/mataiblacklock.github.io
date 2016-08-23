@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Matai Blacklock</title>
-    <description>Industrial Engineer | Sustainability Advocates | Aspiring Consultant</description>
+    <description>Industrial Engineer | Sustainability Advocate | Aspiring Consultant</description>
     <link>localhost:4000//</link>
     <atom:link href="localhost:4000//feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Tue, 23 Aug 2016 18:46:04 -0400</pubDate>
-    <lastBuildDate>Tue, 23 Aug 2016 18:46:04 -0400</lastBuildDate>
+    <pubDate>Tue, 23 Aug 2016 19:06:40 -0400</pubDate>
+    <lastBuildDate>Tue, 23 Aug 2016 19:06:40 -0400</lastBuildDate>
     <generator>Jekyll v3.0.2</generator>
     
       <item>
