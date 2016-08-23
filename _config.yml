@@ -1,22 +1,22 @@
 # Site settings
-title: 'Christopher Iliffe Sprague'
-description: 'Astrodynamicist | Developer | Aspiring Astronaut'
+title: 'Matai Blacklock'
+description: 'Industrial Engineer | Sustainability Advocates | Aspiring Consultant'
 url: 'localhost:4000'
 baseurl: '/'
-google_analytics: 'UA-81308018-1'
-disqus_shortname: 'cisprague'
+google_analytics: 'UA-83003527-1'
+disqus_shortname: #
 
 author:
-  name: 'Christopher.Iliffe.Sprague'
-  email: Christopher.Iliffe.Sprague@gmail.com
-  github_username: CISprague
+  name: 'Matai Blacklock'
+  email: matai.blacklock@gmail.com
+  github_username: MataiBlacklock
   linkedin_username: iliffesprague
-  instagram_username: christopheriliffesprague
-  stackoverflow_username: christopher-iliffe-sprague
-  mendeley_username: christopher-iliffe-sprague
-  googlescholar_username: 3HsccBAAAAAJ
-  researchgate_username: Christopher_Sprague
-  facebook_username: christopher.i.sprague
+  instagram_username: its.my.tie
+  stackoverflow_username: #
+  mendeley_username: #
+  googlescholar_username: #
+  researchgate_username: #
+  facebook_username: #
 
 defaults:
   -
